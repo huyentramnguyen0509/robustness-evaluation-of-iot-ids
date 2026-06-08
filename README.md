@@ -84,12 +84,3 @@ This project provides:
 4. Assessment of defense mechanisms for improving adversarial robustness.
 5. Analysis of the trade-off between clean performance and robustness.
 
-## Author
-
-Nguyen Thi Huyen Tram
-
-Information Security Program
-
-University of Economics Ho Chi Minh City (UEH)
-
-Research Interests: Cybersecurity, IoT Security, Intrusion Detection Systems, Adversarial Machine Learning
